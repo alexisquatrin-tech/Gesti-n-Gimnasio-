@@ -90,5 +90,4 @@ En Windows también puede usarse `py main.py`.
 
 ## Video de demostración
 
-<!-- Completar con el enlace al video (máximo 5 minutos) -->
-Enlace: _pendiente_
+Enlace: https://youtu.be/kL1dm3x3bcQ
